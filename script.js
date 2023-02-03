@@ -64,5 +64,3 @@ function copiar(){
         alert("Algo salió mal");
       });
 }
-  
-  
